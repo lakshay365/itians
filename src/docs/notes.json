@@ -1,0 +1,47 @@
+[
+  {
+    "subject": "Graphics",
+    "title": "Mid Semester",
+    "credits": "Sandeep Shahi",
+    "size": "6 MB",
+    "pages": "17",
+    "drive_link": "https://drive.google.com/open?id=0B8NgUHZ21CveenFrVEVpazdqbGM",
+    "download_link": "./src/docs/notes/Computer Graphics Mid Semester.pdf"
+  },
+  {
+    "subject": "Mathematics",
+    "title": "Math Full",
+    "credits": "Sandeep Shahi / Teacher",
+    "size": "20 MB",
+    "pages": "81",
+    "drive_link": "https://drive.google.com/open?id=0B8NgUHZ21CveY2VPWklpMW1VdWM",
+    "download_link": "./src/docs/notes/Math Full.pdf"
+  },
+  {
+    "subject": "DSA",
+    "title": "Mid Semester",
+    "credits": "Sandeep Shahi",
+    "size": "6 MB",
+    "pages": "24",
+    "drive_link": "https://drive.google.com/open?id=0B8NgUHZ21CveNGNlUjM2TmFWM3M",
+    "download_link": "./src/docs/notes/DSA Mid Semester.pdf"
+  },
+  {
+    "subject": "DBMS",
+    "title": "Mid Semester",
+    "credits": "Anshu",
+    "size": "8 MB",
+    "pages": "28",
+    "drive_link": "https://drive.google.com/open?id=0B8NgUHZ21CvebUM4eko0T2UzSGc",
+    "download_link": "./src/docs/notes/DBMS Mid Semester.pdf"
+  },
+  {
+    "subject": "DCS",
+    "title": "DCS Full",
+    "credits": "Sandeep Shahi",
+    "size": "24 MB",
+    "pages": "79",
+    "drive_link": "https://drive.google.com/open?id=0B8NgUHZ21CvebTRxX2ZiUjQ3OEE",
+    "download_link": "./src/docs/notes/DCS Full.pdf"
+  }
+]

@@ -1,0 +1,127 @@
+#preloader {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 99999;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  background: #ffffff url('../images/eclipse.gif') no-repeat center center;
+}
+
+body {
+  font-family: 'Arima Madurai', sans-serif;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+strong {
+  font-weight: bold;
+}
+
+@media screen and (min-width: 720px) {
+  .brand-logo {
+    margin-left: 10px;
+  }
+}
+
+main {
+  margin-top: 50px;
+  flex: 1 0 auto;
+}
+
+.coming-up-body {
+  padding: 0 !important;
+}
+
+.live {
+  border: 1px solid #e62117;
+  border-radius: 2px;
+  color: #e62117;
+  padding: 0 4px;
+}
+
+.day-tab {
+  text-transform: uppercase;
+  color: #555;
+  font-weight: bold;
+}
+
+.day-tab-center {
+  margin: 0 auto;
+}
+
+div.timetable-container > ul > li > div.collapsible-body {
+  padding: 0;
+}
+
+div.timetable-row > div.col {
+  padding: 15px 15px;
+}
+
+.timetable-row:nth-child(even) {
+  margin: 0;
+}
+
+.timetable-row:nth-child(odd) {
+  background-color: #f2f2f2;
+  margin: 0;
+}
+
+div.notes.card-image {
+  padding: 50px 20px;
+}
+
+div.notes-btn > a {
+  margin: 5px;
+  width: 80%;
+  max-width: 230px;
+}
+
+.download-syllabus {
+  margin-bottom: 40px;
+}
+
+.syllabus-container .collapsible-header {
+  text-transform: uppercase;
+}
+
+.userView img {
+  padding: 20px 0px;
+  padding-left: 5%;
+  width: 80%;
+  height: auto;
+  margin-left: auto;
+}
+
+.side-nav li a {
+  color: #666;
+  font-family: sans-serif;
+}
+
+.side-nav .active a,
+.side-nav .active a .material-icons {
+  color: teal;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.timetable-container {
+  margin-top: 40px;
+}
+
+.page-footer {
+  position: relative;
+  padding: 0;
+  bottom: 0;
+}
+
+.footer-icons {
+  font-size: 0.5em;
+  -ms-transform: translate(0, 30%); /* IE 9 */
+  -webkit-transform: translate(0, 30%); /* Safari */
+  transform: translate(0, 30%);
+}

@@ -1,0 +1,134 @@
+{
+  "monday": [
+    {
+      "time": "10:00-11:00",
+      "subject": "Computer Networks",
+      "place": "LB1"
+    },
+    {
+      "time": "11:00-12:00",
+      "subject": "Computer System Architecture",
+      "place": "LB1"
+    },
+    {
+      "time": "12:00-13:00",
+      "subject": "Operating System",
+      "place": "LB1"
+    },
+    {
+      "time": "13:00-14:00",
+      "subject": "Break",
+      "place": "-"
+    },
+    {
+      "time": "14:00-16:00",
+      "subject": "FH: Operating System<br>SH: Computer Networks",
+      "place": "FH:5202<br>SH:5203"
+    },
+    {
+      "time": "16:00-17:00",
+      "subject":
+        "FH: Probability and Stochastic Processes<br>SH: Computer System Architecture",
+      "place": "FH:LB1<br>SH:LB2"
+    }
+  ],
+  "tuesday": [
+    {
+      "time": "10:00-11:00",
+      "subject": "Computer System Architecture",
+      "place": "LB1"
+    },
+    {
+      "time": "11:00-12:00",
+      "subject": "Operating System",
+      "place": "LB1"
+    },
+    {
+      "time": "12:00-14:00",
+      "subject": "FH: Computer Networks<br> Sh: Operating System",
+      "place": "FH:5203<br>SH:5202"
+    },
+    {
+      "time": "14:00-15:00",
+      "subject": "Break",
+      "place": "-"
+    },
+    {
+      "time": "15:00-16:00",
+      "subject":
+        "FH: Computer System Architecture<br>SH: Probability and Stochastic Processes",
+      "place": "FH:LB2<br>SH:LB1"
+    }
+  ],
+  "wednesday": [
+    {
+      "time": "10:00-11:00",
+      "subject": "Computer Networks",
+      "place": "LB1"
+    },
+    {
+      "time": "11:00-12:00",
+      "subject": "Operating System",
+      "place": "LB1"
+    },
+    {
+      "time": "12:00-13:00",
+      "subject": "Probability and Stochastic Processes",
+      "place": "LB1"
+    },
+    {
+      "time": "13:00-14:00",
+      "subject": "Break",
+      "place": "-"
+    },
+    {
+      "time": "14:00-15:00",
+      "subject": "Software Engineering",
+      "place": "LB1"
+    }
+  ],
+  "thursday": [
+    {
+      "time": "11:00-13:00",
+      "subject": "Probability and Stochastic Processes",
+      "place": "LB1"
+    },
+    {
+      "time": "13:00-14:00",
+      "subject": "Break",
+      "place": "-"
+    },
+    {
+      "time": "14:00-15:00",
+      "subject": "Computer Networks",
+      "place": "LB1"
+    },
+    {
+      "time": "15:00-16:00",
+      "subject": "Software Engineering",
+      "place": "LB1"
+    }
+  ],
+  "friday": [
+    {
+      "time": "11:00-12:00",
+      "subject": "Computer System Architecture",
+      "place": "LB1"
+    },
+    {
+      "time": "12:00-14:00",
+      "subject": "Software Engineering",
+      "place": "FH:5202<br>SH:5201"
+    },
+    {
+      "time": "14:00-15:00",
+      "subject": "Break",
+      "place": "-"
+    },
+    {
+      "time": "15:00-16:00",
+      "subject": "Software Engineering",
+      "place": "LB1"
+    }
+  ]
+}
