@@ -27,8 +27,8 @@
     },
     {
       "time": "16:00-18:00",
-      "subject": "FH: Computer Networks<br>SH: Operating System",
-      "place": "FH:5201<br>SH:5202"
+      "subject": "FH: Computer Networks",
+      "place": "5203"
     }
   ],
   "tuesday": [
@@ -133,6 +133,11 @@
       "time": "15:00-16:00",
       "subject": "SH: Computer System Architecture",
       "place": "LB2"
+    },
+    {
+      "time": "16:00-18:00",
+      "subject": "Operating System",
+      "place": "5201"
     }
   ]
 }
