@@ -7,7 +7,7 @@
     },
     {
       "time": "12:00-13:00",
-      "subject": "Operating System",
+      "subject": "Computer Networks",
       "place": "LB2"
     },
     {
@@ -16,13 +16,8 @@
       "place": "-"
     },
     {
-      "time": "14:00-15:00",
-      "subject": "Computer Networks",
-      "place": "LB2"
-    },
-    {
-      "time": "15:00-16:00",
-      "subject": "Software Engineering",
+      "time": "14:00-16:00",
+      "subject": "Operating System",
       "place": "LB2"
     },
     {
@@ -45,16 +40,6 @@
     {
       "time": "12:00-13:00",
       "subject": "Computer Networks",
-      "place": "LB2"
-    },
-    {
-      "time": "13:00-14:00",
-      "subject": "Break",
-      "place": "-"
-    },
-    {
-      "time": "14:00-15:00",
-      "subject": "Operating System",
       "place": "LB2"
     }
   ],
@@ -100,6 +85,16 @@
       "time": "12:00-14:00",
       "subject": "Software Engineering",
       "place": "FH:5203<br>SH:5201"
+    },
+    {
+      "time": "14:00-15:00",
+      "subject": "Break",
+      "place": "-"
+    },
+    {
+      "time": "15:00-16:00",
+      "subject": "Operating System",
+      "place": "8102"
     }
   ],
   "friday": [
@@ -126,7 +121,7 @@
     },
     {
       "time": "14:00-15:00",
-      "subject": "Operating System",
+      "subject": "Software Engineering",
       "place": "LB2"
     },
     {
