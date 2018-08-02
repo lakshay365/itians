@@ -1,138 +1,129 @@
 {
   "monday": [
     {
+      "time": "10:00-11:00",
+      "subject": "Multimedia & Applications",
+      "place": "5306"
+    },
+    {
       "time": "11:00-12:00",
-      "subject": "Probability and Stochastic Processes",
-      "place": "LB2"
+      "subject": "Theory of Computation",
+      "place": "5306"
     },
     {
-      "time": "12:00-13:00",
-      "subject": "Computer Networks",
-      "place": "LB2"
-    },
-    {
-      "time": "13:00-14:00",
-      "subject": "Break",
-      "place": "-"
-    },
-    {
-      "time": "14:00-16:00",
-      "subject": "Operating System",
-      "place": "LB2"
-    },
-    {
-      "time": "16:00-18:00",
-      "subject": "FH: Computer Networks",
-      "place": "5203"
+      "time": "12:00-14:00",
+      "subject": "FH: Multimedia & Applications<br>SH: Design and Analysis of Algorithm",
+      "place": "FH:5202<br>FH:5203"
     }
   ],
   "tuesday": [
     {
-      "time": "10:00-11:00",
-      "subject": "Probability and Stochastic Processes",
-      "place": "LB2"
+      "time": "13:00-14:00",
+      "subject": "Theory of Computation",
+      "place": "FH:LB2"
     },
     {
-      "time": "11:00-12:00",
-      "subject": "Software Engineering",
-      "place": "LB2"
+      "time": "14:00-16:00",
+      "subject": "Break",
+      "place": "-"
     },
     {
-      "time": "12:00-13:00",
-      "subject": "Computer Networks",
-      "place": "LB2"
+      "time": "16:00-18:00",
+      "subject": "Linux/Unix Lab",
+      "place": "FH:5201<br>FH:5203"
     }
   ],
   "wednesday": [
     {
-      "time": "10:00-11:00",
-      "subject": "Computer System Architecture",
+      "time": "9:00-10:00",
+      "subject": "Design and Analysis of Algorithm",
       "place": "LB2"
     },
     {
-      "time": "11:00-12:00",
+      "time": "10:00-12:00",
       "subject": "Break",
       "place": "-"
     },
     {
-      "time": "12:00-14:00",
-      "subject": "FH: Operating System<br>SH: Computer Networks",
-      "place": "FH:5201<br>FH:5203"
-    },
-    {
-      "time": "14:00-15:00",
-      "subject": "Software Engineering",
-      "place": "LB2"
-    },
-    {
-      "time": "15:00-16:00",
-      "subject": "FH: Probability and Stochastic Processes",
-      "place": "LB2"
+      "time": "12:00-13:00",
+      "subject": "Theory of Computation",
+      "place": "5024"
     }
   ],
   "thursday": [
     {
-      "time": "10:00-11:00",
-      "subject": "Probability and Stochastic Processes",
+      "time": "8:00-9:00",
+      "subject": "Design and Analysis of Algorithm",
       "place": "LB2"
     },
     {
-      "time": "11:00-12:00",
-      "subject": "Computer System Architecture",
-      "place": "LB2"
-    },
-    {
-      "time": "12:00-14:00",
-      "subject": "Software Engineering",
-      "place": "FH:5203<br>SH:5201"
-    },
-    {
-      "time": "14:00-15:00",
+      "time": "9:00-10:00",
       "subject": "Break",
       "place": "-"
     },
     {
-      "time": "15:00-16:00",
-      "subject": "Operating System",
-      "place": "8102"
-    }
-  ],
-  "friday": [
-    {
       "time": "10:00-11:00",
-      "subject":
-        "FH: Computer System Architecture<br>SH: Probability and Stochastic Processes",
-      "place": "FH:LB1<br>SH:LB2"
+      "subject": "Theory of Computation",
+      "place": "SH:LB2"
     },
     {
-      "time": "11:00-12:00",
-      "subject": "Computer Networks",
-      "place": "LB2"
-    },
-    {
-      "time": "12:00-13:00",
+      "time": "11:00-13:00",
       "subject": "Break",
       "place": "-"
     },
     {
       "time": "13:00-14:00",
-      "subject": "Computer System Architecture",
-      "place": "LB2"
+      "subject": "Multimedia & Applications",
+      "place": "5306"
     },
     {
-      "time": "14:00-15:00",
-      "subject": "Software Engineering",
-      "place": "LB2"
-    },
-    {
-      "time": "15:00-16:00",
-      "subject": "SH: Computer System Architecture",
-      "place": "LB2"
+      "time": "14:00-16:00",
+      "subject": "Break",
+      "place": "-"
     },
     {
       "time": "16:00-18:00",
-      "subject": "SH: Operating System",
-      "place": "5201"
+      "subject": "Linux/Unix Lab",
+      "place": "FH:5202<br>SH:5203"
+    }
+  ],
+  "friday": [
+    {
+      "time": "9:00-10:00",
+      "subject":
+        "Design and Analysis of Algorithm",
+      "place": "LB2"
+    },
+     {
+      "time": "10:00-11:00",
+      "subject": "Break",
+      "place": "-"
+    },
+    {
+      "time": "11:00-12:00",
+      "subject": "Design and Analysis of Algorithm",
+      "place": "FH:5203"
+    },
+    {
+      "time": "12:00-13:00",
+      "subject":
+        "FH: Design and Analysis of Algorithm<br>SH: Multimedia & Applications",
+      "place": "FH:5203<br>SH:5201"
+    },
+    {
+      "time": "13:00-14:00",
+      "subject": "Multimedia & Applications",
+      "place": "SH:5201"
+    },
+    {
+      "time": "14:00-15:00",
+      "subject": "Theory of Computation",
+      "place": "5306"
+    },
+    {
+      "time": "15:00-16:00",
+      "subject": "Multimedia & Applications",
+      "place": "5306"
     }
   ]
 }
