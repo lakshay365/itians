@@ -95,25 +95,15 @@
       "place": "LB2"
     },
      {
-      "time": "10:00-11:00",
+      "time": "10:00-12:00",
       "subject": "Break",
       "place": "-"
     },
     {
-      "time": "11:00-12:00",
-      "subject": "Design and Analysis of Algorithm",
-      "place": "FH:5203"
-    },
-    {
-      "time": "12:00-13:00",
+      "time": "12:00-14:00",
       "subject":
         "FH: Design and Analysis of Algorithm<br>SH: Multimedia & Applications",
       "place": "FH:5203<br>SH:5201"
-    },
-    {
-      "time": "13:00-14:00",
-      "subject": "Multimedia & Applications",
-      "place": "SH:5201"
     },
     {
       "time": "14:00-15:00",
